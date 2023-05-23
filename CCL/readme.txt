@@ -1,4 +1,4 @@
-sudo apt-get install openssh-secure, net-tools
+sudo apt-get install openssh-server, net-tools
 ifconfig
 ls
 echo "hello from ubuntu">>f.txt
