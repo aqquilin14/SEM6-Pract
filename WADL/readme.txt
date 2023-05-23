@@ -2,7 +2,15 @@ https://github.com/meghadandapat/LP-II/tree/main/WAD
 statement 1: student database
 '
 
+https://github.com/my-code-learning-area/wadl-practicals/blob/main/Statement_05_mongodb_nodejs_express/index.js
 
+
+
+https://github.com/saif-818/Music_CRUD/blob/main/index.js
+
+
+
+https://github.com/atharvakinikar/WAD_sem_6/tree/kinikar
 
 
 Statemets of 2023:
